@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Example Threat Model",
+    "owner": "Joe Kuemerle",
+    "description": "This is a sample threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Joe Kuemerle"
+  }
+}
