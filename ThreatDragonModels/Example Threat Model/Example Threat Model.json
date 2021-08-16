@@ -5,8 +5,19 @@
     "description": "This is a sample threat model"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Joe Kuemerle"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Sample Diagram",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
     "reviewer": "Joe Kuemerle"
   }
 }
