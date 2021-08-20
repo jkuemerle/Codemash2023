@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "CodepaLOUsa",
+    "owner": "Joe Kuemerle",
+    "description": "CodepaLOUsa app"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Main",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "Someone"
+  }
+}
