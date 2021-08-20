@@ -16,6 +16,12 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "diagramType": "STRIDE",
         "id": 0
+      },
+      {
+        "title": "Working Sample",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 1
       }
     ],
     "reviewer": "Joe Kuemerle"
